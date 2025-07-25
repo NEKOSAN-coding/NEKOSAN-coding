@@ -15,5 +15,5 @@
 
 ## 📫 Reach me
 
-- [LinkedIn](https://linkedin.com/in/yourlink)  
-- Email: your@email.com
+- [LinkedIn](https://www.linkedin.com/in/khu%C3%AA-h%C3%A0-minh-43456b279/) 
+- Email: minhkhue17.hvnh@gmail.com
