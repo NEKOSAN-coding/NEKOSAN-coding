@@ -12,6 +12,7 @@
 - Git, Excel, Communication
 
 ## 📂 Projects
+[Explore E-commerce dataset](https://github.com/NEKOSAN-coding/Explore-E-commerce-dataset)
 
 ## 📫 Reach me
 
