@@ -12,7 +12,7 @@
 - Git, Excel, Communication
 
 ## 📂 Projects
-[Explore E-commerce dataset](https://github.com/NEKOSAN-coding/Explore-E-commerce-dataset)
+[Ecommerce Performance User Behavior Analysis SQL Bigquery.](https://github.com/NEKOSAN-coding/Explore-E-commerce-dataset)
 
 ## 📫 Reach me
 
